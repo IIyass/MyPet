@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Puppy",
+        "value": "puppy"
+    },
+    {
+        "label": "Young",
+        "value": "young"
+    },
+    {
+        "label": "Adult",
+        "value": "adult"
+    },
+    {
+        "label": "Senior",
+        "value": "senior"
+    }
+]
